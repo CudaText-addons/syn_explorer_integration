@@ -1,0 +1,11 @@
+[info]
+title=Explorer Integration
+desc=Allows to add/remove Explorer context menu item for SynWrite, to associate SynWrite with file-extensions .txt .ini .synw-proj .synw-session.
+type=py-plugin
+subdir=syn_explorer_integration
+
+[ini1]
+section=Commands
+id=Explorer Integration
+params=dialog
+
